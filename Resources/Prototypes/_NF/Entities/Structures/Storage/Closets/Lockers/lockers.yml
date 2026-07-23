@@ -108,7 +108,7 @@
 - type: entity
   id: LockerNfsdEvidence
   parent: [NFLockerBaseSecure, LockerSecurity]
-  name: NFSD evidence locker
+  name: LSRD evidence locker # Lone Star changes, NSFD -> LSRD
   components:
   - type: EntityStorageVisuals
     stateBaseClosed: nfsd
@@ -119,8 +119,8 @@
 - type: entity
   id: LockerNfsdCopper
   parent: [NFLockerBaseSecure, LockerSecurity]
-  name: NFSD locker
-  suffix: Copper
+  name: LSRD locker # Lone Star changes, NSFD -> LSRD
+  suffix: Junior Ranger
   components:
   - type: EntityStorageVisuals
     stateBaseClosed: nfsd_copper
@@ -131,8 +131,8 @@
 - type: entity
   id: LockerNfsdSilver
   parent: [NFLockerBaseSecure, LockerSecurity]
-  name: NFSD locker
-  suffix: Silver
+  name: LSRD locker # Lone Star changes, NSFD -> LSRD
+  suffix: Ranger
   components:
   - type: EntityStorageVisuals
     stateBaseClosed: nfsd_silver
@@ -143,8 +143,8 @@
 - type: entity
   id: LockerNfsdBrigmedic
   parent: NFLockerBaseSecure
-  name: NFSD locker
-  suffix: Brigmedic
+  name: LSRD locker # Lone Star changes, NSFD -> LSRD
+  suffix: Corpsman
   components:
   - type: EntityStorageVisuals
     stateBaseClosed: nfsd_brigmed
@@ -157,8 +157,8 @@
 - type: entity
   id: LockerNfsdSergeant
   parent: NFLockerBaseSecure
-  name: NFSD locker
-  suffix: Sergeant
+  name: LSRD locker # Lone Star changes, NSFD -> LSRD
+  suffix: Senior Ranger
   components:
   - type: EntityStorageVisuals
     stateBaseClosed: nfsd_gold
@@ -171,8 +171,8 @@
 - type: entity
   id: LockerNfsdBailiff
   parent: LockerNfsdSergeant
-  name: NFSD locker
-  suffix: Bailiff
+  name: LSRD locker # Lone Star changes, NSFD -> LSRD
+  suffix: Armorer
   components:
   - type: AccessReader
     access: [["Bailiff"]]
@@ -181,8 +181,8 @@
 - type: entity
   id: LockerNfsdSheriff
   parent: [NFLockerBaseSecure, LockerHeadOfSecurity]
-  name: NFSD locker
-  suffix: Sheriff
+  name: LSRD locker # Lone Star changes, NSFD -> LSRD
+  suffix: Chief Ranger
   components:
   - type: EntityStorageVisuals
     stateBaseClosed: nfsd_sheriff

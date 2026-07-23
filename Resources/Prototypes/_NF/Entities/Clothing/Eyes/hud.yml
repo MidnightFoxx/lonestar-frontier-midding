@@ -3,7 +3,7 @@
   - ClothingEyesHudSecurity
   - BaseC4Contraband
   id: ClothingEyesHudNfsd
-  name: NFSD hud
+  name: LSRD hud # Lone Star changes, NSFD -> LSRD
   description: A heads-up display that scans the humanoids in view and provides accurate data about their ID status and criminal records.
   components:
   - type: Sprite
@@ -26,7 +26,7 @@
 - type: entity
   parent: [ClothingEyesHudMedical, ClothingEyesHudNfsd, BaseC4Contraband]
   id: ClothingEyesHudNfsdMed
-  name: brigmedic hud
+  name: corpsman hud # Changes made for Lonestar
   description: An eye display that looks like a mixture of medical and nfsd huds.
   components:
   - type: Sprite
@@ -42,7 +42,7 @@
   - ClothingEyesHudSecurity
   - BaseC4Contraband
   id: ClothingEyesHudNfsdPatch
-  name: NFSD hud eyepatch
+  name: LSRD hud eyepatch # Lone Star changes, NSFD -> LSRD
   description: A heads-up display that scans the humanoids in view and provides accurate data about their ID status and criminal records.
   components:
   - type: Sprite

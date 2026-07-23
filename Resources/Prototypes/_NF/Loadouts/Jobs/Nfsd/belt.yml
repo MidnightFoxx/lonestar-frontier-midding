@@ -1,18 +1,18 @@
 - type: loadout
   id: NfsdWebbing
-  name: NFSD webbing (filled)
+  name: LSRD webbing (filled) # Lone Star changes, NSFD -> LSRD
   equipment:
     belt: ClothingBeltNfsdWebbingFilled
 
 - type: loadout
   id: NfsdBelt
-  name: NFSD belt (filled)
+  name: LSRD belt (filled) # Lone Star changes, NSFD -> LSRD
   equipment:
     belt: ClothingBeltNfsdFilled
 
 # Brigmedic
 - type: loadout
   id: BrigmedicClothingBeltBrigmedicWebbing
-  name: NFSD webbing (filled)
+  name: LSRD webbing (filled) # Lone Star changes, NSFD -> LSRD
   equipment:
     belt: ClothingBeltNfsdWebbingFilledBrigmedic

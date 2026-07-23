@@ -11,7 +11,7 @@
 - type: pointOfInterest
   id: Nfsd
   parent: BasePOI
-  name: 'NFSD Outpost'
+  name: 'LSRD Outpost' # Changes from Lonestar
   minimumDistance: 750
   maximumDistance: 1000
   spawnGroup: Required
@@ -25,7 +25,7 @@
 
 - type: gameMap
   id: Nfsd
-  mapName: 'NFSD Outpost'
+  mapName: 'LSRD Outpost' # Changes from Lonestar
   mapPath: /Maps/_NF/POI/nfsd.yml
   minPlayers: 0
   stations:

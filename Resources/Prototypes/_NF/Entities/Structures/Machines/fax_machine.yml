@@ -155,7 +155,7 @@
   categories: [ HideSpawnMenu ]
   components:
   - type: FaxMachine
-    name: "Nash Station NFSD Post" # Coyote: Replaced Trade Mall with Nash Station
+    name: "Nash Station LSRD Post" # Coyote: Replaced Trade Mall with Nash Station # Lone Star changes, NSFD -> LSRD
 
 - type: entity
   parent: [BaseStructureDisableToolUse, FaxMachineBase]
@@ -209,7 +209,7 @@
   categories: [ HideSpawnMenu ]
   components:
   - type: FaxMachine
-    name: "NFSD Outpost Sheriff"
+    name: "LSRD Outpost Chief Ranger" # Lone Star changes, NSFD -> LSRD
 
 - type: entity
   parent: [BaseStructureDisableToolUse, FaxMachineBase]
@@ -218,7 +218,7 @@
   categories: [ HideSpawnMenu ]
   components:
   - type: FaxMachine
-    name: "NFSD Outpost Lawyer"
+    name: "LSRD Outpost Lawyer" # Lone Star changes, NSFD -> LSRD
 
 - type: entity
   parent: FaxMachineBase

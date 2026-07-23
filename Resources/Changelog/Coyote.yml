@@ -198,7 +198,7 @@ Entries:
 - author: W0LF-101
   changes:
     - type: Add
-      message: EMP Grenade Magazines to NFSD Uplink
+      message: EMP Grenade Magazines to NFSD Uplink 
     - type: Add
       message: Added Standard 15 FUC Uplink to Deputies, Brigmedics and Detectives
     - type: Tweak
