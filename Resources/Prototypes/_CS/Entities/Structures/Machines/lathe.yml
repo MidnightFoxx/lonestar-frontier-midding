@@ -57,7 +57,7 @@
   parent: [ NFBlueprintReceiverBase, BaseLatheLube ]
   id: EdisonTechFab
   name: edison engineering techfab
-  description: Prints equipment for Edision engineers.
+  description: Prints equipment for Edison engineers.
   components:
   - type: Sprite
     sprite: _CS/Structures/Machines/techfab.rsi
