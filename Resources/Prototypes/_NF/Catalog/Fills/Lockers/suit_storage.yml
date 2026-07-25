@@ -193,7 +193,7 @@
 - type: entity
   parent: [ SuitStorageBase, StorageFillEVASuitNfsd ]
   id: SuitStorageEVANfsd
-  suffix: LSRD, NFSD
+  suffix: EVA, LSRD
   components:
   - type: AccessReader
     access: [["Security"]]

@@ -32,8 +32,8 @@ frontier-lobby-medical-description = Frontier's medical dispatch hub. Here you c
    - Drop off medical bounties
  {"["}color=gray]Some of the roles on this station are [color=lightblue]whitelist-only[/color] and require an application in the Discord to be accepted.[/color]
 
-frontier-lobby-nfsd-subtext = The center of operations for the Rangers department.
-frontier-lobby-nfsd-description = The Lone Star Rangers Department is the center of operations for the Rangers department. Here you can:
+frontier-lobby-nfsd-subtext = The center of operations for the Ranger department.
+frontier-lobby-nfsd-description = The Lone Star Ranger Department is the center of operations for the Rangers department. Here you can:
    - Become a Ranger
    - Apply for a bounty hunting license
    - Report crimes
