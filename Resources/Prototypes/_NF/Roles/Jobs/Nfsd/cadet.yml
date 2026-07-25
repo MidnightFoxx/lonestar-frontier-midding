@@ -6,9 +6,6 @@
   requirements:
     - !type:OverallPlaytimeRequirement
       time: 43200 # frontier = 6 hrs | CS = 12 hrs, TIME IN SECONDS
-    - !type:DepartmentTimeRequirement
-      department: Security
-      time: 3600 # frontier = 1 hr | CS = 6 hrs, TIME IN SECONDS
   startingGear: CadetGear
   icon: JobIconCadetNF
   supervisors: job-supervisors-cadet
