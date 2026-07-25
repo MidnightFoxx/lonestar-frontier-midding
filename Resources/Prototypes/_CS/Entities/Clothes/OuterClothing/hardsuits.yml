@@ -41,7 +41,7 @@
 - type: entity
   parent: ClothingOuterHardsuitNfsdBronze
   id: ClothingOuterHardsuitTsfMarineMedic
-  name: TSF corpsman tactical suit
+  name: TSF brigmedic tactical suit
   description: A surplus marine hardsuit, issued for patrol duty. This brighter variant has brigmedic rank markings.
   components:
   - type: Sprite

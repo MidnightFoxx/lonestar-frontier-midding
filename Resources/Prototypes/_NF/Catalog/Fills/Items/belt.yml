@@ -22,7 +22,7 @@
 - type: entity
   id: ClothingBeltNfsdWebbingFilledBrigmedic
   parent: ClothingBeltNfsdWebbing
-  suffix: Filled, Brigmedic
+  suffix: Filled, Corpsman
   components:
   - type: StorageFill
     contents:
