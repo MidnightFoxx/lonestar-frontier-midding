@@ -773,7 +773,7 @@
   parent: BaseComputerTabletopStationAdminBankATM
   id: ComputerTabletopStationAdminBankATMNfsd
   description: Used to transfer funds to and from LSRD's bank account. # Lone Star changes, NSFD -> LSRD
-  suffix: NFSD, Tabletop
+  suffix: LSRD, Tabletop
   components:
   - type: StationBankATM
     account: Nfsd

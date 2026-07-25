@@ -1120,7 +1120,7 @@
   categories: [ HideSpawnMenu ]
   parent: BaseMail
   id: MailSecurityNFHudNfsdMed
-  suffix: nfsd med hud
+  suffix: LSRD med hud
   components:
   - type: Mail
     contents:

@@ -382,8 +382,8 @@
 - type: entity
   parent: [BaseStructureDisableAnchoring, VendingMachine]
   id: VendingMachineNfsdDrobe
-  name: NFSDDrobe
-  description: A vending machine for NFSD and NFSD clothing!
+  name: LSRDDrobe # Lonestar Changes NSFD -> LSRD
+  description: A vending machine for LSRD and LSRD clothing!
   components:
   - type: VendingMachine
     pack: NfsdDrobeInventory
@@ -470,7 +470,7 @@
 - type: entity
   parent: NFVendingMachineCart
   id: NFVendingMachineCartNfsd
-  suffix: NFSD
+  suffix: LSRD # Lonestar Changes NSFD -> LSRD
   components:
   - type: VendingMachine
     pack: NFPTechNfsdInventory

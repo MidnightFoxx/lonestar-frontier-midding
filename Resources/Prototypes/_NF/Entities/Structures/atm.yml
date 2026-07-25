@@ -228,7 +228,7 @@
   parent: BaseStationAdminBankATM
   id: StationAdminBankATMNfsd
   description: Used to transfer funds to and from NFSD's bank account.
-  suffix: NFSD
+  suffix: LSRD
   components:
   - type: StationBankATM
     account: Nfsd
